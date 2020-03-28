@@ -1,0 +1,9 @@
+#ls displays a list of the type of file and names of all files in the current home directory:
+$ ls
+
+#To view a file using cat command, you can use the following command.
+$ cat filename
+
+#log into bandit1 using SSH (on port 2220)
+$ ssh user_name@host_name -p port_number
+
