@@ -1,3 +1,0 @@
-#Usage of dash (-) in place of a filename
-#Generally you use cat file_name but for any name of the file is -
-$ cat ./-
