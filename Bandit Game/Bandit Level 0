@@ -1,0 +1,13 @@
+https://overthewire.org/wargames/bandit/bandit0.html
+
+
+sudo apt-get install ssh
+
+sudo nano /etc/ssh/sshd_config
+#change the port to 2220
+
+ssh remote_username@remote_host -p port_number
+
+#enter the password
+#you will be logging into the game using SSH
+#start level 1
