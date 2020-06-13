@@ -19,6 +19,6 @@ To find out the absolute pathname of your home-directory, type <b>cd</b> to get 
 
 <h1>SUMMARY :</h1>
 
-![image](https://drive.google.com/uc?export=view&id=1mBx9qBgFYfjW3GUoYwavvQbgZlwYv7dU)
+![image](https://drive.google.com/uc?export=view&id=1rfCBwYwSIg8a0bcJwh6_z7NdGdADCkgj)
 
 
