@@ -16,3 +16,7 @@ For more details, refer the <b>link :</b>
 # http://www.ee.surrey.ac.uk/Teaching/Unix/unix5.html
 
 
+<h1>SUMMARY :</h1>
+
+![image](https://drive.google.com/uc?export=view&id=1029RG-HlsCO2uEuJ-VFp6-KRKCDYfsVD)
+
