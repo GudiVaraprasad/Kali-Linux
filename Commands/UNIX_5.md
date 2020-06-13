@@ -1,6 +1,6 @@
 
-In your gudi directory, type <b>ls -l</b> (l for long listing!) -you will see that you now get lots of details about the contents of your directory 'gudi'.
-or type ls <b>-lg</b> gives additional information as to which group owns the file.
+In your gudi directory, type  <b>ls -l</b>  (l for long listing!) -you will see that you now get lots of details about the contents of your directory 'gudi'.
+or type  <b>ls -lg</b>  gives additional information as to which group owns the file.
 
 <h3>This will be the display :</h3> 
 (Screenshot of the window is taken using command "scrot")
