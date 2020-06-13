@@ -10,4 +10,4 @@ The command <b>cd gudi</b> means change the current working directory to 'gudi'.
 
 <b>cd ..</b> (..) (..) means the parent of the current directory, so typing.
 
-# <small>Note: typing cd with no argument always returns you to your home directory. This is very useful if you are lost in the file system.</small>
+<h5>Note: typing cd with no argument always returns you to your home directory. This is very useful if you are lost in the file system.</h5>
